@@ -19,7 +19,7 @@ mysql –u root -p
 
 ```sql
 show tables;  #exibe as tabelas;
-show index from professores; # mostra os indices contidana Tabela.
+show index from professores; # mostra os indices contidos na Tabela.
 describe livros;  # exibe a estrutura da Tabela.
 drop table livros;   # deleta a tabela;
 ALTER TABLE escola RENAME TO colegio;  # renomeia a tabela.
